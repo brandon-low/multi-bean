@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<project name="OwnTaskExample" default="main" basedir=".">
+  <taskdef name="mytask" classname="example.ant.MyTask" classpath="target/classes"/>
+
+  <target name="main">
+    <mytask message="Hello World! Does it really works!"/>
+  </target>
+</project>

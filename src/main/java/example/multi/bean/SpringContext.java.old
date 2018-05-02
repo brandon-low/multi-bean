@@ -1,0 +1,10 @@
+package example.multi.bean;
+
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+//@Configuration
+//@ComponentScan("example.multi.bean")
+public class SpringContext {
+}

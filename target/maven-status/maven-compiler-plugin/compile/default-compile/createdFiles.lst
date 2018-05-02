@@ -1,0 +1,14 @@
+example/multi/repository/MessageRepository.class
+example/multi/repository/InMemoryRepository.class
+example/multi/bean/Nature.class
+example/multi/repository/MySqlRepository.class
+example/multi/bean/Wolf.class
+example/multi/bean/Bear.class
+example/multi/bean/SpringContext.class
+example/multi/repository/SpringContext.class
+example/multi/bean/Grizzly.class
+example/multi/bean/PolarBear.class
+example/multi/bean/Runner.class
+example/multi/repository/SellPhone.class
+example/multi/bean/Main.class
+example/multi/repository/Main.class
