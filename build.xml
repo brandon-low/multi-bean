@@ -3,6 +3,7 @@
 <project name="OwnTaskExample" default="main" basedir=".">
   <taskdef name="mytask" classname="example.ant.MyTask" classpath="target/classes"/>
 
+	<!-- test add to git -->
   <target name="main">
     <mytask message="Hello World! Does it really works!"/>
   </target>
